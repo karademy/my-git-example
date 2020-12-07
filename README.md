@@ -1,8 +1,9 @@
 # Responsive Animated CSS Grid Examples
 
-This is a sample CSS Grid Example!
+these changes by Masoud
 
 Let's make some change here and there.
+
 
 Karademy Coding Bootcam 2020.
 
